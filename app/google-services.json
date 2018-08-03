@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017240523496",
+    "firebase_url": "https://bloodhelpline-sonchalon.firebaseio.com",
+    "project_id": "bloodhelpline-sonchalon",
+    "storage_bucket": "bloodhelpline-sonchalon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017240523496:android:6e7b3d08e928623e",
+        "android_client_info": {
+          "package_name": "com.isabbir.bloodhelpline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017240523496-p631t1olbco05pcu54m20126j6tath1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isabbir.bloodhelpline",
+            "certificate_hash": "b5519e960d50c0778a42e465018c23e3a1f3efac"
+          }
+        },
+        {
+          "client_id": "1017240523496-gbs2ngima301p0h80qhoa7lagsqt8njt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0fKu1ZagsMBvHiZrZ854_vcSUyJKuHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017240523496-gbs2ngima301p0h80qhoa7lagsqt8njt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

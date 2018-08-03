@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Blood Helpline</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="backup_before_import">Do you want backup curren database before import an old databas?</string>
+    <string name="action_backup">Backup</string>
+    <string name="action_restore">Restore</string>
+    <string name="select_file">Select file</string>
+    <string name="backup_empty">Backup file is empty</string>
+
+    <string name="spin">Select Blood Group</string>
+
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

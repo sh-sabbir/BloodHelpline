@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" >
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home"/>
+        <item
+            android:id="@+id/nav_newDonor"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="Add New Donor" />
+
+
+    <item android:title="Filter Doner By Group">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/ap"
+                android:title="A positive (A+)" />
+            <item
+                android:id="@+id/an"
+                android:title="A negative (A-)" />
+            <item
+                android:id="@+id/bp"
+                android:title="B positive (B+)" />
+            <item
+                android:id="@+id/bn"
+                android:title="B negative (B-)" />
+            <item
+                android:id="@+id/op"
+                android:title="O positive (O+)" />
+            <item
+                android:id="@+id/on"
+                android:title="O negative (O-)" />
+            <item
+                android:id="@+id/abp"
+                android:title="AB positive (AB+)" />
+            <item
+                android:id="@+id/abn"
+                android:title="AB negative (AB-)" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="About">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@android:drawable/ic_menu_info_details"
+                android:title="Developer" />
+            </group>
+        </menu>
+    </item>
+    </group>
+</menu>
